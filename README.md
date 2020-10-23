@@ -1,9 +1,9 @@
 ### Hi there 👋
 
+<br />
+<details>
 <img align="left" alt="Ozer-T's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Ozer-T&show_icons=true&hide_border=true"/>
-<br />
-<br />
-<br />
+</details>
 
 
 ### Connect with me:
