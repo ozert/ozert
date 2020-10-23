@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I am an electrical and electronics engineer. I am more focused on artificial intelligence (AI) and machine learning (ML). 
+✔ I am an electrical and electronics engineer. I am more focused on artificial intelligence (AI) and machine learning (ML). 
 
-Lets work together to make usefull applications.
+🎢 Lets work together to make usefull applications.
 
-Please don't hesitate to contact me! 😉
+📍 Please don't hesitate to contact me! 😉
 
 ### Connect with me:
 
