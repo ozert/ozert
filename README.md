@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!-- <img src="http://hits.dwyl.com/abhisheknaiidu/awesome-github-profile-readme.svg" alt="Hits Badge"/> -->
+<!-- <img src="https://github.com/Ozer-T" alt="Hits Badge"/> -->
 
 **Ozer-T/Ozer-T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
