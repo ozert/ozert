@@ -21,7 +21,12 @@
 [<img align="left" alt="Matlab" width="50px" src="https://www.mathworks.com/help/examples/matlab/win64/MatlabLogoExample_08.png" />]
 [<img align="left" alt="Tensorflow" width="50px" src="https://blog.oursky.com/wp-content/uploads/2018/02/xIp6NSz-720x405.jpg" />]
 [<img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
+[<img align="left" alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
+[<img align="left" alt="Terminal" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 
+
+[<img align="left" alt="MongoDB" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />]
+[<img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
 
 
 
@@ -38,7 +43,7 @@
   <br/>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Ozer-T's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Ozer-T&show_icons=true&hide_border=true" />
+  <img align="left" alt="Ozer-T's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Ozer-T&show_icons=true&hide_border=true"/>
 
 </details>
 
