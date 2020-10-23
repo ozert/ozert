@@ -8,7 +8,7 @@
 [<img align="left" alt="Ozer-T | Code Wars" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][codewars]
 
 <br />
- 
+<br />
 
 ### Languages and Tools:
 
