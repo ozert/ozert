@@ -1,6 +1,7 @@
 ### Hi there 👋
-![counter](https://[https://github.com/Ozer-T/].m.pipedream.net)
-<!--
+
+<!-- <img src="http://hits.dwyl.com/abhisheknaiidu/awesome-github-profile-readme.svg" alt="Hits Badge"/> -->
+
 **Ozer-T/Ozer-T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
