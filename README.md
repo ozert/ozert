@@ -1,11 +1,5 @@
 ### Hi there 👋
 
-<br />
-<details>
-<img align="left" alt="Ozer-T's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Ozer-T&show_icons=true&hide_border=true"/>
-</details>
-
-
 ### Connect with me:
 
 [<img align="left" alt="Ozer-T | Hackerrank" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][hackerrank]
