@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am an electrical and electronics engineer. I am more focused on artificial intelligence (AI) and machine learning (ML). 
+
+Lets work together to make usefull applications.
+
+Please don't hesitate to contact me! 😉
+
 ### Connect with me:
 
 [<img align="left" alt="Ozer-T | Hackerrank" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][hackerrank]
