@@ -1,5 +1,5 @@
 [![HitCount](http://hits.dwyl.com/Ozer-T/Ozer-T.svg)](http://hits.dwyl.com/Ozer-T/Ozer-T)
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square)](https://github.com/dwyl/hits/issues/74)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square)](https://github.com/Ozer-T/sudoku_solver_AI)
 ### Hi there 👋
 ✔ I am an electrical and electronics engineer. I am more focused on artificial intelligence (AI) and machine learning (ML). 
 
