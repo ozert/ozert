@@ -1,5 +1,5 @@
+[![HitCount](http://hits.dwyl.com/Ozer-T/Ozer-T.svg)](http://hits.dwyl.com/Ozer-T/Ozer-T)
 ### Hi there 👋
-
 ✔ I am an electrical and electronics engineer. I am more focused on artificial intelligence (AI) and machine learning (ML). 
 
 🎢 Lets work together to make usefull applications.
