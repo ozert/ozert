@@ -1,5 +1,6 @@
 [![HitCount](http://hits.dwyl.com/Ozer-T/Ozer-T.svg)](http://hits.dwyl.com/Ozer-T/Ozer-T)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square)](https://github.com/Ozer-T/sudoku_solver_AI)
+<img align='right' src="https://github-readme-stats.codestackr.vercel.app/api?username=Ozer-T&show_icons=true&hide_border=true"/>
 ### Hi there 👋
 ✔ I am an electrical and electronics engineer. I am more focused on artificial intelligence (AI) and machine learning (ML). 
 
@@ -53,13 +54,7 @@
 ---
 
 <br/>
-<details>
-  <br/>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Ozer-T's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Ozer-T&show_icons=true&hide_border=true"/>
-
-</details>
 
 [python]: https://www.python.org/
 [c++]: https://tr.wikipedia.org/wiki/C%2B%2B
