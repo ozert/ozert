@@ -11,8 +11,9 @@
 ### Connect with me:
 
 [<img align="left" alt="Ozer-T | Hackerrank" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][hackerrank]
-[<img align="left" alt="Ozer-T | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
 [<img align="left" alt="Ozer-T | Code Wars" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][codewars]
+
 
 <br />
 
