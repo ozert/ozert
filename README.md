@@ -13,6 +13,7 @@
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
 [<img align="left" alt="Ozer-T | Hackerrank" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][hackerrank]
 [<img align="left" alt="Ozer-T | Code Wars" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][codewars]
+[![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ozertanrisever)
 
 
 <br />
