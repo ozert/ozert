@@ -1,6 +1,5 @@
 [![HitCount](http://hits.dwyl.io/ozert/ozert.svg)](http://hits.dwyl.io/ozert/ozert)
-
-<img src="https://ozert.pythonanywhere.com/count/tag.svg" alt="Hits">
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fozert%2Fozert)
 
 
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square)](https://github.com/ozert/sudoku_solver_AI)
