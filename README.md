@@ -1,4 +1,4 @@
-[![HitCount](http://hits.dwyl.io/ozert/ozert.svg)](http://hits.dwyl.io/ozert/ozert)
+![HitCount](http://hits.dwyl.io/ozert/ozert.svg)(http://hits.dwyl.io/ozert/ozert)
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fozert%2Fozert)
 
 
