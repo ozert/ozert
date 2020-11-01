@@ -1,4 +1,8 @@
 [![HitCount](http://hits.dwyl.io/ozert/ozert.svg)](http://hits.dwyl.io/ozert/ozert)
+
+<img src="https://ozert.pythonanywhere.com/count/tag.svg" alt="Hits">
+
+
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square)](https://github.com/ozert/sudoku_solver_AI)
 <img align='right' src="https://github-readme-stats.codestackr.vercel.app/api?username=Ozer-T&show_icons=true&hide_border=true"/>
 ### Hi there 👋
