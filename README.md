@@ -3,7 +3,7 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=ozert&show_icons=true&theme=vue"/>
 
 ### Hi there 👋
-✔ I am an electrical and electronics engineer. I am more focused on artificial intelligence (AI) and machine learning (ML). 
+✔ I am an electrical and electronics engineer. I am more focused on data science (DS), artificial intelligence (AI) and machine learning (ML). 
 
 🎢 Lets work together to make usefull applications.
 
