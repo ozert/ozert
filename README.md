@@ -1,6 +1,8 @@
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fozert%2Fozert)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square)](https://github.com/ozert/sudoku_solver_AI)
 <img align='right' src="https://github-readme-stats.codestackr.vercel.app/api?username=ozert&show_icons=true&hide_border=true"/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ozert&show_icons=true&theme=radical)
+
 ### Hi there 👋
 ✔ I am an electrical and electronics engineer. I am more focused on artificial intelligence (AI) and machine learning (ML). 
 
