@@ -59,7 +59,7 @@
 <br/>
 
 
-[python]: https://www.python.org/
+[python]: https://www.python.org
 [c++]: https://tr.wikipedia.org/wiki/C%2B%2B
 [cprogramming]: https://en.wikipedia.org/wiki/C_%28programming_language%29
 [java]: https://www.oracle.com/tr/java/technologies/javase-downloads.html
