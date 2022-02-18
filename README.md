@@ -1,8 +1,7 @@
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fozert%2Fozert)
 
-<pre id="badge" class="fw4 ba bw1 pa3 ma2" style="white-space: pre-wrap; word-break: keep-all;">
-  [![HitCount](http://hits.dwyl.com/ozert/{ozert}.svg?style={style})](http://hits.dwyl.com/ozert/ozert)
-</pre>
+[![HitCount](http://hits.dwyl.com/ozert/{ozert}.svg?style={style})](http://hits.dwyl.com/ozert/ozert)
+
 
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square)](https://github.com/ozert/sudoku_solver_AI)
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=ozert&show_icons=true&theme=vue"/>
