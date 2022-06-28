@@ -1,4 +1,3 @@
-[![HitCount](http://hits.dwyl.com/ozert/{ozert}.svg?style={style})](http://hits.dwyl.com/ozert/ozert)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square)](https://github.com/ozert/sudoku_solver_AI)
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=ozert&show_icons=true&theme=vue"/>
 
