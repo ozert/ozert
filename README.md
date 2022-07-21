@@ -1,7 +1,7 @@
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square)](https://github.com/ozert/sudoku_solver_AI)
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=ozert&show_icons=true&theme=vue"/>
 
-### Hi there, I'm Özer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+### Hi there, I'm Özer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ✔ I am an electrical and electronics engineer. I am more focused on data science (DS), artificial intelligence (AI) and machine learning (ML). 
 
 🎢 Lets work together to make usefull applications.
